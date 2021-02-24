@@ -5,7 +5,7 @@
   "license": "MIT",
   "main": "index.js",
   "kibana": {
-    "version": "7.6.0",
+    "version": "7.11.1",
     "templateVersion": "1.0.0"
   },
   "scripts": {
